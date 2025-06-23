@@ -64,7 +64,8 @@ Tesla’s strategic investment in Artificial Intelligence (AI) has redefined the
 
 ## 👨‍💼 Author
 
-**Uttam Tripathi**  
+[Uttam Tripathi](https://github.com/uttamtripathi54)
+
 BCA Graduate specializing in Data Science & AI  
 [LinkedIn Profile](https://www.linkedin.com/in/uttam-tripathi-8421b2290)
 
