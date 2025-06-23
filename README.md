@@ -66,7 +66,7 @@ Tesla’s strategic investment in Artificial Intelligence (AI) has redefined the
 
 **Uttam Tripathi**  
 Final-year BCA student specializing in Data Science & AI  
-[LinkedIn Profile](https://www.linkedin.com/in/uttam-tripathi)
+[LinkedIn Profile](https://www.linkedin.com/in/uttam-tripathi-8421b2290)
 
 ---
 
