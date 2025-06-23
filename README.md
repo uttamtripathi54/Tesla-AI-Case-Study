@@ -30,6 +30,13 @@ Author: Uttam Tripathi
 - Dojo: Tesla's Dojo supercomputer is designed to accelerate AI training by processing vast amounts of data from its vehicle fleet. This enables faster iteration and improvement of its AI algorithms.
 - Neural Networks: Tesla utilizes deep neural networks for perception, prediction, and control tasks. These networks are trained on massive datasets to accurately interpret sensor data and make informed driving decisions.
 
-🌍 Competitive Landscape: Tesla operates in a highly competitive landscape, facing challenges from established automakers, technology companies, and startups. Companies like Waymo, Cruise, and other OEMs are investing heavily in AI. This section analyzes the competitive landscape, identifying key players and assessing their strengths and weaknesses.⏳ Key Milestones Timeline2020: Release of FSD Beta.2021: Continued refinement of FSD Beta, expansion to more users.2022: Focus on neural net improvements and Dojo development.2023: Further FSD improvements, regulatory discussions.2024-2025: Aiming for Robotaxi deployment, regulatory approvals.
+🌍 Competitive Landscape: Tesla operates in a highly competitive landscape, facing challenges from established automakers, technology companies, and startups. Companies like Waymo, Cruise, and other OEMs are investing heavily in AI. This section analyzes the competitive landscape, identifying key players and assessing their strengths and weaknesses.
+
+⏳ Key Milestones Timeline
+- 2020: Release of FSD Beta.
+- 2021: Continued refinement of FSD Beta, expansion to more users.
+- 2022: Focus on neural net improvements and Dojo development.
+- 2023: Further FSD improvements, regulatory discussions.
+- 2024-2025: Aiming for Robotaxi deployment, regulatory approvals.
 
 ✅ Conclusion: Tesla's AI journey is a testament to its commitment to innovation and its disruptive vision for the future of transportation. While challenges remain, Tesla's strategic advantages, technological prowess, and market position suggest that it is well-equipped to lead the AI revolution in the automotive industry and beyond. The next few years will be critical as Tesla seeks to overcome regulatory hurdles, refine its technology, and deploy its Robotaxi services.
